@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\arasindakileritopla\araliktoplami\araliktoplami\bin\Debug\araliktoplami.exe.config
+C:\Users\Windows10\Documents\GitHub\arasindakileritopla\araliktoplami\araliktoplami\bin\Debug\araliktoplami.exe
+C:\Users\Windows10\Documents\GitHub\arasindakileritopla\araliktoplami\araliktoplami\bin\Debug\araliktoplami.pdb
+C:\Users\Windows10\Documents\GitHub\arasindakileritopla\araliktoplami\araliktoplami\obj\Debug\araliktoplami.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\arasindakileritopla\araliktoplami\araliktoplami\obj\Debug\araliktoplami.exe
+C:\Users\Windows10\Documents\GitHub\arasindakileritopla\araliktoplami\araliktoplami\obj\Debug\araliktoplami.pdb
